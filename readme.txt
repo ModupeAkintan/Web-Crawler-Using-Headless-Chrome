@@ -1,11 +1,6 @@
-CS249i Project 2:  Web and Content Delivery P1/P2
-Mo Akintan (makintan@stanford.edu)
-Christina Rogers (rogerscj@stanford.edu)
-2/18/2024
-
 Files included:
-starter_code.js: javascript code for gathering meta data of websites (is ran first)
-asn_tag.py: python code that tagged ASN and AS names for metadata entries (is ran after start_code.js)
+starter_code.js: javascript code for gathering meta data of websites (Runs first)
+asn_tag.py: python code that tagged ASN and AS names for metadata entries (Runs after start_code.js)
 output.jsonl: final output data for metadata of domains crawled 
 
 
